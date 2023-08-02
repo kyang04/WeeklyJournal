@@ -1,9 +1,13 @@
 # WeeklyJournal
 This project was made during the Northeastern University 2023 Summer 1 semester for CS 3500 Object-Oriented Design. It is a weekly planner to keep track of events and tasks.
-
 Preview of the Journal:
 [weekview.jpg](https://github.com/kyang04/WeeklyJournal/blob/fecf46f1138b9e2c5b4dea7c820e518008f8e15c/weekview.jpg)
 
+### Contributors
+Partnered with Rup Jaisinghani
+https://github.com/rupjaisinghani0904
+
+### Features
 This Bullet Journal application supports a multitude of features 
 to help users keep track of events and tasks during the week 
 - a view of the week, with tasks and events displayed for each day
@@ -38,6 +42,3 @@ other interfaces, so that task-specific methods are only available to the task, 
 to facilitate decoupling. This was also done in the bujo writer and reader classes. Our many abstractions also
 allow for less dependency on specific implementations and allow for more flexibility 
 
-##Contributors
-Partnered with Rup Jaisinghani
-Link: https://github.com/rupjaisinghani0904
