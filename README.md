@@ -1,5 +1,7 @@
 # WeeklyJournal
-This project was made during the Northeastern Universiy 2023 Summer 1 semester for CS 3500 Object-Oriented Design. It is a weekly planner to keep track of events and tasks.
+This project was made during the Northeastern University 2023 Summer 1 semester for CS 3500 Object-Oriented Design. It is a weekly planner to keep track of events and tasks.
+
+weekview.jpg
 
 This Bullet Journal application supports a multitude of features 
 to help users keep track of events and tasks during the week 
